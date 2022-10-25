@@ -19,7 +19,7 @@
 * U  Maria Gisela Urzagaste
 * Y  Claudia  Yon Vargas
 * V  Cristian Gonzalo Vera
-* V
+* V  Mariano Raul Vila
 
 # Descripcion del proyecto
 
