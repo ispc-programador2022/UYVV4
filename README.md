@@ -16,7 +16,7 @@
 
 # Integrantes
 
-* U
+* U  Maria Gisela Urzagaste
 * Y  Claudia  Yon Vargas
 * V  Cristian Gonzalo Vera
 * V
