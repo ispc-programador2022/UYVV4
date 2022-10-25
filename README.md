@@ -17,9 +17,9 @@
 # Integrantes
 
 * U
-* Y
+* Y  Claudia  Yon Vargas
 * V  Cristian Gonzalo Vera
-* V  Vila Mariano Raul
+* V
 
 # Descripcion del proyecto
 
