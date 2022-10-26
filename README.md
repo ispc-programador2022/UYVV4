@@ -13,9 +13,9 @@
 
 * [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-* [Acceso al proyecto](#acceso-proyecto)
+* [Acceso al proyecto](#Acceso-al-proyecto)
 
-* [Tecnologías utilizadas](#tecnologías-utilizadas)
+* [Tecnologías utilizadas](#Tecnologías-utilizadas)
 
  
 # Profesores
@@ -92,6 +92,6 @@ El mismo se ira completando sobre el siguiente documento colaborativo https://do
 
 # Tecnologias Utilizadas
 * webScraping, python
-* SCRUM, Ux, Ui, AGILE, MVC
+* SCRUM, AGILE
 
 
