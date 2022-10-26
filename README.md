@@ -90,7 +90,7 @@ El mismo se ira completando sobre el siguiente documento colaborativo https://do
       📁public:         Carpeta de la version de programa final                                                     
 </em>
 
-# Tecnologias Utilizadas
+# Tecnologías Utilizadas
 * webScraping, python
 * SCRUM, AGILE
 
