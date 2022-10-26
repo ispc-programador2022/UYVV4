@@ -1,4 +1,6 @@
 
+<p> <img align"right" src = "https://github.com/ispc-programador2022/UYVV4/blob/main/Documentacion/GIFT/Presentacion3.gif" width = "1000" height ="320" </p>
+
 # Índice
 
 * [Integrantes](#Integrantes)
