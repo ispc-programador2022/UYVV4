@@ -18,10 +18,10 @@
 
 # Integrantes
 
-* U  Maria Gisela Urzagaste
-* Y  Claudia  Yon Vargas
-* V  Cristian Gonzalo Vera
-* V  Mariano Raul Vila
+*   Maria Gisela Urzagaste
+*   Claudia  Yon Vargas
+*   Cristian Gonzalo Vera
+*   Mariano Raul Vila
 
 # Descripcion del proyecto
 
