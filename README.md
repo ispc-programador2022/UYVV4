@@ -91,7 +91,7 @@ El mismo se ira completando sobre el siguiente documento colaborativo https://do
 </em>
 
 # Tecnologías Utilizadas
-* webScraping, python
+* WebScraping, Python
 * SCRUM, AGILE
 
 
