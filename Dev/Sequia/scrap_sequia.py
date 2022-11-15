@@ -104,6 +104,6 @@ df_drought = df.filter(like='drought') # filtrar por drought o sequias
 df_drought['Pais'] = df['Entity']   # agregar columna pais
 print(df_drought) 
 
-# Lo guardo en un archivo csv
+# Lo guardo en un archivo csv para poder trabajar con el
 df_drought.to_csv(rutaCsvDrought, index=False, encoding='utf-8')
 
