@@ -1,3 +1,4 @@
+
 import selenium
 import time
 from selenium import webdriver
@@ -8,6 +9,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 
 
+'''
+# script de la generacion del csv general, donde se incluyen todos los datos
+# de aca se extaera la informacion de sequia para cada pais
 
 # Inicio del Srapping
 #
@@ -81,3 +85,25 @@ driver.quit()
 # Fin del Srapping
 
 #**********************************************************************************************************************
+
+'''
+
+# script de la generacion del csv para sequia para cada pais por decada
+# utilizar pandas para la lectura del csv general
+
+import pandas as pd
+
+rutaCsv = './Dev/z_Scrapping/natural-disasters.csv'
+rutaCsvDrought = './Dev/Sequia/drought.csv'
+
+# Lectura del csv general
+df = pd.read_csv(rutaCsv, sep=',', encoding='utf-8')
+
+# Generar csv de sequia y cargar la columna Entity
+df_drought = df.filter(like='drought') # filtrar por drought o sequias
+df_drought['Pais'] = df['Entity']   # agregar columna pais
+print(df_drought) 
+
+# Lo guardo en un archivo csv
+df_drought.to_csv(rutaCsvDrought, index=False, encoding='utf-8')
+
