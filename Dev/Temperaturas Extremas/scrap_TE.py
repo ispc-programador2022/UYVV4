@@ -1,4 +1,3 @@
-
 import selenium
 import time
 from selenium import webdriver
@@ -94,16 +93,15 @@ driver.quit()
 import pandas as pd
 
 rutaCsv = './Dev/z_Scrapping/natural-disasters.csv'
-rutaCsvDrought = './Dev/Sequia/drought.csv'
+rutaCsvDrought = './Dev/Temperaturas Extremas/extreme temperatures.csv'
 
 # Lectura del csv general
 df = pd.read_csv(rutaCsv, sep=',', encoding='utf-8')
 
 # Generar csv de sequia y cargar la columna Entity
-df_drought = df.filter(like='drought') # filtrar por drought o sequias
-df_drought['Pais'] = df['Entity']   # agregar columna pais
-print(df_drought) 
+df_TE = df.filter(like='extreme temperatures') # filtrar por drought o sequias
+df_TE['Pais'] = df['Entity']   # agregar columna pais
+print(df_TE) 
 
-# Lo guardo en un archivo csv para poder trabajar con el
-df_drought.to_csv(rutaCsvDrought, index=False, encoding='utf-8')
-
+# Lo guardo en un archivo csv
+df_TE.to_csv(rutaCsvDrought, index=False, encoding='utf-8')

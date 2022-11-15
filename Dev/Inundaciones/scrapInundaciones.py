@@ -94,16 +94,15 @@ driver.quit()
 import pandas as pd
 
 rutaCsv = './Dev/z_Scrapping/natural-disasters.csv'
-rutaCsvDrought = './Dev/Sequia/drought.csv'
+rutaCsvInundaciones = './Dev/Inundaciones/inundaciones.csv'
 
 # Lectura del csv general
 df = pd.read_csv(rutaCsv, sep=',', encoding='utf-8')
 
 # Generar csv de sequia y cargar la columna Entity
-df_drought = df.filter(like='drought') # filtrar por drought o sequias
-df_drought['Pais'] = df['Entity']   # agregar columna pais
-print(df_drought) 
+df_inundaciones = df.filter(like='floods') # filtrar por drought o sequias
+df_inundaciones['Pais'] = df['Entity']   # agregar columna pais
+print(df_inundaciones) 
 
 # Lo guardo en un archivo csv para poder trabajar con el
-df_drought.to_csv(rutaCsvDrought, index=False, encoding='utf-8')
-
+df_inundaciones.to_csv(rutaCsvInundaciones, index=False, encoding='utf-8')
