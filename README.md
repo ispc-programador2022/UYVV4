@@ -103,3 +103,16 @@ Ejecución del Proyecto. Esto hace referencia a la codificación del WebScrappin
 el resumen del proyecto.
 Finalización  antes del 16/11/22.
 
+
+
+<strong>**HERRAMIENTAS**</strong>
+
+* WebScraping
+* PYTHON
+* GIT/GITHUB
+
+<strong>**FRAMEWORK**</strong>
+* SCRUM
+* AGILE
+* KANBAN
+
