@@ -102,6 +102,7 @@ El mismo se ira completando sobre el siguiente documento colaborativo https://do
 Ejecución del Proyecto. Esto hace referencia a la codificación del WebScrapping, las bases de datos, los informes y el documento que contenga 
 el resumen del proyecto.
 Finalización  antes del 16/11/22.
+
 https://ourworldindata.org/
 <p> <img align"right" src ="https://user-images.githubusercontent.com/88784579/202205547-b7cfc37d-6582-404b-971a-f6a3f4ad06fd.png" width = "500" height ="320" </p>
 
