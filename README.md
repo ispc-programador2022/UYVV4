@@ -94,6 +94,9 @@ El mismo se ira completando sobre el siguiente documento colaborativo https://do
 * WebScraping, Python
 * SCRUM, AGILE
 
+
+
+
 <strong>REQUERIMIENTOS ACTUALES SPRINT 2</strong>
 
 Ejecución del Proyecto. Esto hace referencia a la codificación del WebScrapping, las bases de datos, los informes y el documento que contenga 
