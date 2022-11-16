@@ -103,8 +103,7 @@ Ejecución del Proyecto. Esto hace referencia a la codificación del WebScrappin
 el resumen del proyecto.
 Finalización  antes del 16/11/22.
 https://ourworldindata.org/
-
-![image](https://user-images.githubusercontent.com/88784579/202205547-b7cfc37d-6582-404b-971a-f6a3f4ad06fd.png)
+<p> <img align"right" src ="https://user-images.githubusercontent.com/88784579/202205547-b7cfc37d-6582-404b-971a-f6a3f4ad06fd.png" width = "500" height ="320" </p>
 
 
 
