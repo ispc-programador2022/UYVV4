@@ -120,3 +120,10 @@ https://ourworldindata.org/
 * AGILE
 * KANBAN
 
+
+ <strong>REQUERIMIENTOS ACTUALES SPRINT 3</strong>
+
+
+<strong>Presentación del proyecto. Consiste en la realización de un video o grabación de un meet interno del equipo de proyecto, con una duración no mayor a 15 minutos, en donde el equipo presente los resultados obtenidos y comenten sobre el proceso de ejecución del proyecto. Esto tiene que ser presentado antes del 23/11/22 <strong>
+
+https://www.canva.com/design/DAFSnnQ9Qy4/zgIAmEtL6iFv8xsSJcI8jg/watch?utm_content=DAFSnnQ9Qy4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
