@@ -51,7 +51,7 @@ De igual manera crearán un tablero en Trello, con acceso para ispc.programador2
 
 :construction: Proyecto en construcción :construction:
 
-<p>El proyecto sera un programa que se dearrollara sobre la linea de comando y permitira conocer datos y estadisticas; asi como generar informes sobre <strong>desastres naturales</strong> mundiales, el mismo contendra un soporte de guia de uso, y una seleccion por categorias en el manejo de la informacion; 
+<p>El proyecto sera un programa que se desarrollara sobre la linea de comando y permitira conocer datos y estadisticas; asi como generar informes sobre <strong>desastres naturales</strong> mundiales, el mismo contendra un soporte de guia de uso, y una seleccion por categorias en el manejo de la informacion; 
 como podria ser: rango de tiempo, lugar (pais, continente), tipo de desastres naturales ( incendios, inundaciones, huracanes, terremotos, epidemias...). El mismo
 sera implementado en lenguaje python</p>
 
